@@ -39,7 +39,9 @@ A curated collection of resources related to tech leadership
 - [What I Learned While Becoming a Tech Lead](https://medium.com/featured-insights/what-i-learned-while-becoming-a-tech-lead-af58599e7df1)
 
 ## Books
--
+- [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader)
+- [Leading Snowflakes](http://leadingsnowflakes.com/)
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](http://shop.oreilly.com/product/0636920056843.do)
 
 ## Conferences
 - [Tech Leader Summit](https://techleadersummit.io)
