@@ -1,4 +1,4 @@
-# tech-leadership
+# Tech Leadership
 A curated collection of resources related to tech leadership
 
 ## Articles
@@ -9,6 +9,7 @@ A curated collection of resources related to tech leadership
 - [A Primer on Giving Critical Feedback](https://www.tombartel.me/blog/a-primer-on-giving-critical-feedback/)
 - [Becoming a Tech Lead: How I’ve Balanced Coding with Coaching](https://medium.com/@HubSpotDev/becoming-a-tech-lead-how-i-ve-balanced-coding-with-coaching-2af82c154488)
 - [Code review in remote teams](https://web.hypothes.is/blog/code-review-in-remote-teams/)
+- [Everyone can be a leader](https://www.thekua.com/atwork/2015/06/everyone-can-be-a-leader/)
 - [For the first time, you’ve been chosen as a tech lead. Now What?](https://medium.com/tribalscale/for-the-first-time-youve-been-chosen-as-a-tech-lead-now-what-6590a1410d65)
 - [From Developer to Tech Lead — Making the Leap into Technical Management](https://medium.com/make-better-software/from-developer-to-tech-lead-making-the-leap-into-technical-management-4cd9088367c4)
 - [Giving better feedback for better performance](https://slackhq.com/giving-better-feedback-for-better-performance#)
@@ -41,6 +42,7 @@ A curated collection of resources related to tech leadership
 ## Books
 - [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader)
 - [Leading Snowflakes](http://leadingsnowflakes.com/)
+- [Talking with Tech Leads](https://leanpub.com/talking-with-tech-leads)
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](http://shop.oreilly.com/product/0636920056843.do)
 
 ## Conferences
