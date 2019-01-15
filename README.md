@@ -17,6 +17,7 @@ A curated collection of resources related to tech leadership
 - [Good Tech Lead, Bad Tech Lead](https://medium.com/swlh/good-tech-lead-bad-tech-lead-948b2b806d86)
 - [Help Your Team Do More Without Burning Out](https://hbr.org/2018/10/help-your-team-do-more-without-burning-out)
 - [How I Convince Myself to Lead: Accountability and Authority](https://medium.com/@chadfowler/how-i-convince-myself-to-lead-accountability-and-authority-83012e1c3309)
+- [How Leaders Can Get Honest, Productive Feedback](https://hbr.org/2019/01/how-leaders-can-get-honest-productive-feedback)
 - [How should deadlines be used in software engineering?](https://blog.keen.io/how-should-deadlines-be-used-in-software-engineering/)
 - [How to Exhibit Leadership as an Individual Contributor](https://www.tombartel.me/blog/exhibit-leadership-as-individual-contributor/)
 - [How to interview engineers](https://triplebyte.com/blog/how-to-interview-engineers)
