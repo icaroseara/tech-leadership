@@ -44,11 +44,39 @@ A curated collection of resources related to tech leadership
 
 ## Must Read Books for all engineers and engineering managers
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](http://shop.oreilly.com/product/0636920056843.do)
+
 ## Other books of interest
 - [Becoming a Technical Leader: An Organic Problem-Solving Approach](https://www.goodreads.com/book/show/714344.Becoming_a_Technical_Leader)
 - [Leading Snowflakes](http://leadingsnowflakes.com/)
 - [Talking with Tech Leads](https://leanpub.com/talking-with-tech-leads)
-
+- [Accelerate: The Science of Lean Software and DevOps](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
+- [An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V)
+- [Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies](https://www.goodreads.com/book/show/38398157-blitzscaling)
+- [Build What Matters: Delivering Key Outcomes with Vision-Led Product Management](https://www.goodreads.com/book/show/55318594-build-what-matters)
+- [Building Microservices: Designing Fine-Grained Systems](https://www.goodreads.com/book/show/22512931-building-microservices)
+- [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.goodreads.com/book/show/18043011-clean-architecture)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
+- [Delivering Happiness: A Path to Profits, Passion, and Purpose](https://www.goodreads.com/book/show/6828896-delivering-happiness)
+- [Domain-Driven Design Quickly](https://www.goodreads.com/book/show/2558105.Domain_Driven_Design_Quickly)
+- [Empowered: Ordinary People, Extraordinary Products](https://www.goodreads.com/book/show/53481975-empowered)
+- [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy)
+- [Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.goodreads.com/book/show/76865.Good_to_Great)
+- [Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All](https://www.goodreads.com/book/show/12675109-great-by-choice)
+- [High Output Management](https://www.goodreads.com/book/show/324750.High_Output_Management)
+- [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/book/show/35249663-inspired)
+- [Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.goodreads.com/book/show/37559166-measure-what-matters)
+- [Mistakes were made but not by me](https://www.goodreads.com/book/show/522525.Mistakes_Were_Made_But_Not_by_Me_)
+- [No Rules Rules: Netflix and the Culture of Reinvention](https://www.goodreads.com/book/show/49099937-no-rules-rules)
+- [Peopleware](https://www.goodreads.com/book/show/67825.Peopleware)
+- [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.goodreads.com/book/show/32809138-radical-candor)
+- [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days](https://www.goodreads.com/book/show/25814544-sprint)
+- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies)
+- [The 21 Irrefutable Laws of Leadership](https://www.goodreads.com/book/show/815716.The_21_Irrefutable_Laws_of_Leadership)
+- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder)
+- [The Dichotomy of Leadership](https://www.goodreads.com/book/show/38714388-the-dichotomy-of-leadership)
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things)
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+- [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell](https://www.goodreads.com/book/show/42118073-trillion-dollar-coach)
 
 ## Conferences
 - [Tech Leader Summit](https://techleadersummit.io)
@@ -59,8 +87,6 @@ A curated collection of resources related to tech leadership
 - [Chief Technology Officer Summit](https://www.theinnovationenterprise.com/summits/chief-technology-officer-summit-san-francisco)
 - [CTO Summit](https://asictosummit.com/)
 
-### Upcoming conferences
-- 
 
 ## Meetups
 - [CTO School](https://www.meetup.com/ctoschool/)
